@@ -30,9 +30,9 @@ Los siguientes elementos del proyecto se encuentran almacenados en **Google Driv
 ## Demostración
 Vista previa del juego en acción:
 
-*<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/a2543d95-6114-48bf-ad60-5573c470bdee" />
-*
-
+[Pantalla de inicio](Recursos/Intro.png)\
+[Muestra de la casa](Recursos/Casa.gif)\
+[Muestra del museo](Recursos/Museo.gif)
 ---
 
 ## Tecnologías utilizadas
