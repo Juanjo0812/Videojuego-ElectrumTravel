@@ -5,6 +5,27 @@ Este repositorio contiene el **código fuente principal, escenas y configuracion
 
 ---
 
+## 🚀 Descripción
+
+El jugador toma el rol de un **hacker** que recibe la misión de infiltrarse en el **Museo de Electrónica** para detener un virus cibernético.  
+Durante la experiencia debe:
+
+- Explorar las salas del museo e interactuar con objetos y audios informativos.  
+- Resolver **minijuegos educativos** relacionados con áreas de la ingeniería.  
+- Superar un **juego final de telecomunicaciones** para completar la misión.  
+
+---
+
+## 🕹️ Minijuegos principales
+
+1. **PCB Electrónica** → organizar componentes en una tarjeta.  
+2. **Levitador Neumático** → control de estabilidad con un ventilador.  
+3. **Seguidor de Línea** → guiar un robot evitando obstáculos.  
+4. **Robot Digital** → esquivar virus en un canal de datos.  
+5. **Juego Final: Antena y Satélite** → orientar correctamente la antena para restablecer la conexión.  
+
+---
+
 ## Rol 
 Como desarrollador principal del proyecto, mis aportes incluyen:
 
@@ -71,10 +92,12 @@ Vista previa del juego en acción:
 5. Para acceder a todos los modelos y recursos, descargar la carpeta de Google Drive.
 
 
-## Autor
+## Autores
 
-Juan Joseph Mora Estrada\
+- **Juan Joseph Mora** – Desarrollador principal (programación en C#, integración en Unity, diseño de escenas y gestión de recursos).  
+- Andrés Felipe García – Modelado de algunos minijuegos y apoyo en diseño.  
+- Harold Mauricio Gómez – Documentación y pruebas.  
+- Diego Alexander Ramírez – Diseño de personajes y assets.  
+- Andrés Mauricio Prieto – Presentación y apoyo en investigación.   
 
-Estudiante de Ingeniería Electrónica.\
-Apasionado por el desarrollo de software y la resolución de problemas mediante la programación en C#, Python, SQL y demas.  \
-Este proyecto demuestra mis habilidades para estructurar y mantener código limpio, integrar diferentes tecnologías y gestionar recursos de manera eficiente en un entorno colaborativo.  
+
