@@ -5,7 +5,7 @@ Este repositorio contiene el **código fuente principal, escenas y configuracion
 
 ---
 
-## 🚀 Descripción
+## Descripción
 
 El jugador toma el rol de un **hacker** que recibe la misión de infiltrarse en el **Museo de Electrónica** para detener un virus cibernético.  
 Durante la experiencia debe:
@@ -16,7 +16,7 @@ Durante la experiencia debe:
 
 ---
 
-## 🕹️ Minijuegos principales
+## Minijuegos principales
 
 1. **PCB Electrónica** → organizar componentes en una tarjeta.  
 2. **Levitador Neumático** → control de estabilidad con un ventilador.  
