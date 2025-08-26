@@ -43,9 +43,9 @@ Los siguientes elementos del proyecto se encuentran almacenados en **Google Driv
 ## Demostración
 Vista previa del juego en acción:
 
-![Pantalla de inicio](Recursos/Intro.png)\
+![Pantalla de inicio](Recursos/Intro.png)
 ---
-![Muestra de la casa](Recursos/Casa.gif)\
+![Muestra de la casa](Recursos/Casa.gif)
 ---
 ![Muestra del museo](Recursos/Museo.gif)
 ---
@@ -73,7 +73,8 @@ Vista previa del juego en acción:
 
 ## Autor
 
-Juan Joseph Mora Estrada\n
+Juan Joseph Mora Estrada\
+
 Estudiante de Ingeniería Electrónica.\
 Apasionado por el desarrollo de software y la resolución de problemas mediante la programación en C#, Python, SQL y demas.  \
 Este proyecto demuestra mis habilidades para estructurar y mantener código limpio, integrar diferentes tecnologías y gestionar recursos de manera eficiente en un entorno colaborativo.  
