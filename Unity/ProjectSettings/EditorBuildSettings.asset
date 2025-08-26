@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/JuegoFinal/Menu.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/JuegoFinal/House.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 0
+    path: Assets/Scenes/Museum.unity
+    guid: 97a258db43ea1dd4ab4635b47b474013
+  - enabled: 0
+    path: Assets/Scenes/MiniGameDigitales.unity
+    guid: a8be1bdd82c6fad4aa06462a736b4abb
+  - enabled: 0
+    path: Assets/Scenes/MiniGameControl.unity
+    guid: 9a47bcdb9927eaf48be1b042f914013b
+  - enabled: 0
+    path: Assets/Scenes/MiniGameElectro.unity
+    guid: 231ec7f92dd057e449bb3acbae22d8f6
+  - enabled: 0
+    path: Assets/Scenes/MiniGameTeleco.unity
+    guid: 13c9113317a0acd4e9b303a24c2a9013
+  m_configObjects: {}
