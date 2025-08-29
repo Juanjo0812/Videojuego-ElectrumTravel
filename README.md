@@ -1,5 +1,11 @@
 # Videojuego - Electrum Travel
 
+[![C#](https://img.shields.io/badge/C%23-10.0-239120.svg?logo=c-sharp&logoColor=white)](https://learn.microsoft.com/es-es/dotnet/csharp/)
+[![Unity](https://img.shields.io/badge/Unity-2023-black.svg?logo=unity&logoColor=white)](https://unity.com/)
+[![Blender](https://img.shields.io/badge/Blender-3.6-orange.svg?logo=blender&logoColor=white)](https://www.blender.org/)
+
+---
+
 **Electrum Travel** es un proyecto de videojuego desarrollado en Unity con enfoque en la exploración y resolución de minijuegos.  
 Este repositorio contiene el **código fuente principal, escenas y configuraciones** necesarias para ejecutar y comprender la lógica del proyecto.
 
