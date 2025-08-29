@@ -5,7 +5,7 @@
 [![Blender](https://img.shields.io/badge/Blender-3.6-orange.svg?logo=blender&logoColor=white)](https://www.blender.org/)
 
 ---
-<p align="center">
+<p align="justify">
 **Electrum Travel** es un videojuego educativo desarrollado en **Unity** con programación en **C#**, diseñado para la **exploración interactiva** y la **resolución de minijuegos**.  
 Su objetivo principal es enseñar y reforzar **conceptos de electrónica** de una manera **dinámica, lúdica e interactiva**, acercando a los estudiantes a esta área del conocimiento de forma más atractiva que los métodos tradicionales. El proyecto combina **diseño 3D**, **programación de lógica de juego** y **narrativa educativa**, mostrando cómo la tecnología puede aplicarse en contextos **creativos, pedagógicos y de divulgación científica**.  
 
