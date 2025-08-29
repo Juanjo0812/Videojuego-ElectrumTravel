@@ -79,7 +79,20 @@ Vista previa del juego en acción:
 
 ---
 
+## Puesta en escena
+
+El videojuego *Electrum Travel* fue presentado en diferentes instituciones educativas como herramienta de divulgación para que estudiantes de colegio conocieran de manera interactiva aspectos de la **Ingeniería Electrónica** y las oportunidades que ofrece la universidad.  
+
+Durante estas sesiones:  
+- Los estudiantes exploraron las mecánicas del juego y los minijuegos.  
+- Se promovió el interés en áreas como la electrónica, la programación y el diseño 3D.  
+- Se validó el proyecto como recurso pedagógico para apoyar procesos de orientación vocacional.  
+
+![Juego en escuelas](Recursos/Escuelas.png)
+---
+
 ## Cómo ejecutar el proyecto
+
 1. Clonar este repositorio:
    - git clone https://github.com/Juanjo0812/Videojuego-ElectrumTravel.git
 
