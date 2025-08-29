@@ -46,10 +46,21 @@ Este proyecto refleja mis capacidades tanto en **programación** como en **gesti
 ---
 
 ## Contenido del repositorio
-- **Assets/Scripts** → Código en C# que gestiona la lógica del juego.  
-- **Assets/Scenes** → Escenas principales del videojuego.  
-- **Assets/Prefabs (ligeros)** → Prefabs esenciales para pruebas.  
-- **Project Settings** → Configuración del proyecto en Unity.  
+## Contenido del repositorio
+
+- **`Build_Videojuego/Electrum Travel.exe`** — Ejecutable del videojuego (demo para Windows).
+- **`Documentos/Certificado_Diplomado.pdf`** — Certificación del diplomado.
+- **`Documentos/DOCUMENTACION -FINAL.pdf`** — Informe general del proyecto.
+- **`Documentos/Presentación Electrum Travel.pdf`** — Presentación del videojuego.
+- **`Personajes/`** — Assets y archivos fuente de personajes.
+- **`Recursos/`** — Imágenes y GIFs usados en el README y material de difusión.
+- **`Unity/Assets/Scripts`** — Código en C# que gestiona la lógica del juego.
+- **`Unity/Assets/Scenes`** — Escenas principales del videojuego.
+- **`Unity/Assets/Prefabs`** — Prefabs ligeros para pruebas (los pesados están en Drive).
+- **`Unity/Assets/Terrenos`** — Terrenos y configuraciones de entorno.
+- **`Unity/Assets/Settings`** — Configuraciones del proyecto/renderer.
+- **`Unity/Packages`** — Dependencias y paquetes del proyecto.
+- **`Unity/ProjectSettings`** — Configuración general de Unity.
 
 > Nota: Los recursos pesados (modelos 3D complejos, prefabs grandes, texturas HD y cinemáticas) no se encuentran aquí debido a las restricciones de tamaño de GitHub.
 
