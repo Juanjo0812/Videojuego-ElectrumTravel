@@ -11,6 +11,7 @@ Su objetivo principal es enseñar y reforzar **conceptos de electrónica** de un
 
 Este repositorio contiene el **código fuente principal, escenas y configuraciones** necesarias para ejecutar y comprender la lógica del proyecto.
 </p>
+
 ---
 
 ## Descripción
